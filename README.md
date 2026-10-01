@@ -9,7 +9,7 @@ atualmente estou apredendo:
 
 coisas de que sou nerd(gosto muito)
 
-<h6>PAC MAM</h6>
+<h6>PAC MAN</h6>
 <img src ="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/912d9e1a-454b-42c2-84e6-fb7a7f5f174f/diyx8o6-f03215ba-a1f8-4500-9e91-29e69a259f09.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi85MTJkOWUxYS00NTRiLTQyYzItODRlNi1mYjdhN2Y1ZjE3NGYvZGl5eDhvNi1mMDMyMTViYS1hMWY4LTQ1MDAtOWU5MS0yOWU2OWEyNTlmMDkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.AKR1EnfuUK-K4logwY06HzMp25kca-IZQi4YtSo90sc"  width="100" height="100">
 
 <p> Você sabia que quando pac man estava em seu auge nos 80,havia um erro nos arcades que aparecia quando você atingia um level muito alto?</p>
