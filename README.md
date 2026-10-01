@@ -16,3 +16,9 @@ coisas de que sou nerd(gosto muito)
 <p>esse level era o 256. o jogo foi criado com a ideia de ser infinito, 
 mas obviamente não era. por conta da memoria dos arcades naquela epoca serem bem limitadas,então eles colocavam um limite de nivel que você podia ir para não ultrapasssar o limite de memoria da maquina,quando você ultrapassava esse limite,o codigo do jogo quebrava pois a memoria dele não aguentava mais rodar o jogo. </p>
 
+
+<h6>SHOWBIZ PIZZARIA</h6>
+
+<img src ="https://primary.jwwb.nl/public/q/o/b/temp-qhaikmzzaroctglbbpti/b629pc/maxresdefault.jpg?enable-io=true&enable=upscale&fit=bounds&width=1200" width="100" height="100">
+<p> como os animatronics funcionavam?</p>
+<p> Mangueiras de ar ligavam estes cilindros a uma central de válvulas solenoide (valve bank) escondida debaixo do palco. Quando uma válvula recebia eletricidade, abria-se e deixava o ar comprimido passar, empurrando o pistão e gerando o movimento (como abrir a boca ou levantar uma pálpebra). O comando básico era binário: ligado ou desligado (ar estendido ou retraído).</p>
